@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timur Izbasarov</h1>
 <h3 align="center">A beginning frontend developer from Russia</h3>
-
+- 🔭 I'm currently studying at Plekhanov University
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trane7776" alt="trane7776" /></a> </p>
 
 - 📫 How to reach me **izbasarov.t@edu.rea.ru**
