@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur Izbasarov</h1>
 <h3 align="center">A beginning frontend developer from Russia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: izbasarov.t@edu.rea.ru</h3>
 <p align="left">
 </p>
 
